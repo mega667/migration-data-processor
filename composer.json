@@ -1,8 +1,11 @@
 {
     "name": "mega667/migration-data-processor",
     "description": "Migration Data Processor",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "minimum-stability": "dev",
+    "require": {
+        "magento/data-migration-tool": "2.2.3"
+    },
     "autoload": {
         "files": [
             "registration.php"
