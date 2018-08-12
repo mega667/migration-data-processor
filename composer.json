@@ -2,6 +2,7 @@
     "name": "mega667/migration-data-processor",
     "description": "Migration Data Processor",
     "version": "0.0.1",
+    "minimum-stability": "dev",
     "autoload": {
         "files": [
             "registration.php"
