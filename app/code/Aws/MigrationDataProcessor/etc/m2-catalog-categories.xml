@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xs:noNamespaceSchemaLocation="../class-map.xsd">
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">1</column>
+        <column name="value">Root Catalog</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">2</column>
+        <column name="value">capezio.com</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">3</column>
+        <column name="value">Women</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">4</column>
+        <column name="value">Men</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">5</column>
+        <column name="value">Children</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">6</column>
+        <column name="value">Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">7</column>
+        <column name="value">Sale</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">8</column>
+        <column name="value">Clearance</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">9</column>
+        <column name="value">Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">10</column>
+        <column name="value">Dancewear</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">11</column>
+        <column name="value">Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">12</column>
+        <column name="value">Collections</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">13</column>
+        <column name="value">Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">14</column>
+        <column name="value">Dancewear</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">15</column>
+        <column name="value">Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">16</column>
+        <column name="value">Collections</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">17</column>
+        <column name="value">Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">18</column>
+        <column name="value">Dancewear</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">19</column>
+        <column name="value">Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">20</column>
+        <column name="value">Collections</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">21</column>
+        <column name="value">Ballet Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">22</column>
+        <column name="value">Bunheads®</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">23</column>
+        <column name="value">Ballet &amp; Pointe Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">24</column>
+        <column name="value">Beauty &amp; Stage Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">25</column>
+        <column name="value">Gel Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">26</column>
+        <column name="value">Hair Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">27</column>
+        <column name="value">Capezio Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">28</column>
+        <column name="value">Ballet &amp; Pointe Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">29</column>
+        <column name="value">Beauty &amp; Stage Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">30</column>
+        <column name="value">Miscellaneous</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">31</column>
+        <column name="value">Dance Bags</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">32</column>
+        <column name="value">Dance Shoe Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">33</column>
+        <column name="value">Hair Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">34</column>
+        <column name="value">Bottoms</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">35</column>
+        <column name="value">Dresses</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">36</column>
+        <column name="value">Foundations</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">37</column>
+        <column name="value">Knitwear</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">38</column>
+        <column name="value">Leotards</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">39</column>
+        <column name="value">Skirts/Tutus</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">40</column>
+        <column name="value">Tops</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">41</column>
+        <column name="value">Unitards</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">42</column>
+        <column name="value">Ballet Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">43</column>
+        <column name="value">Character Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">44</column>
+        <column name="value">Dansneakers®</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">45</column>
+        <column name="value">footUndeez</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">46</column>
+        <column name="value">Jazz Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">47</column>
+        <column name="value">Lyrical, Modern, &amp; Gym Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">48</column>
+        <column name="value">Tap Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">49</column>
+        <column name="value">Fishnet Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">50</column>
+        <column name="value">Footed Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">51</column>
+        <column name="value">Footless Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">52</column>
+        <column name="value">Skating Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">53</column>
+        <column name="value">Stirrup Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">54</column>
+        <column name="value">Transition Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">55</column>
+        <column name="value">Fit Kits</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">56</column>
+        <column name="value">Bottoms</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">57</column>
+        <column name="value">Foundations</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">58</column>
+        <column name="value">Leotards</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">59</column>
+        <column name="value">Tops</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">60</column>
+        <column name="value">T-Shirts</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">61</column>
+        <column name="value">Ballet Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">62</column>
+        <column name="value">Ballroom Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">63</column>
+        <column name="value">Character Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">64</column>
+        <column name="value">Footed Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">65</column>
+        <column name="value">Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">66</column>
+        <column name="value">Ballet &amp; Pointe Accessories</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">67</column>
+        <column name="value">Dancewear</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">68</column>
+        <column name="value">Bottoms</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">69</column>
+        <column name="value">Knitwear</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">70</column>
+        <column name="value">Leotards</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">71</column>
+        <column name="value">Skirts/Tutus</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">72</column>
+        <column name="value">Tops</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">73</column>
+        <column name="value">Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">74</column>
+        <column name="value">Ballet Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">75</column>
+        <column name="value">Ballroom Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">76</column>
+        <column name="value">Dansneakers®</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">77</column>
+        <column name="value">footUndeez™</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">78</column>
+        <column name="value">Lyrical, Modern, &amp; Gym Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">79</column>
+        <column name="value">Tap Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">80</column>
+        <column name="value">Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">81</column>
+        <column name="value">Footed Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">82</column>
+        <column name="value">Footless Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">83</column>
+        <column name="value">Transition Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">84</column>
+        <column name="value">ABT Uniforms</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">85</column>
+        <column name="value">Bottoms</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">86</column>
+        <column name="value">Dresses</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">87</column>
+        <column name="value">Foundations</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">88</column>
+        <column name="value">Knitwear</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">89</column>
+        <column name="value">Leotards</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">90</column>
+        <column name="value">Skirts/Tutus</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">91</column>
+        <column name="value">Tops</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">92</column>
+        <column name="value">T-Shirts</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">93</column>
+        <column name="value">Unitards</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">94</column>
+        <column name="value">Ballroom Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">95</column>
+        <column name="value">Character Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">96</column>
+        <column name="value">Dansneakers®</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">97</column>
+        <column name="value">footUndeez</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">98</column>
+        <column name="value">Jazz Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">99</column>
+        <column name="value">Lyrical, Modern, &amp; Gym Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">100</column>
+        <column name="value">Pointe Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">101</column>
+        <column name="value">Tap Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">102</column>
+        <column name="value">Body Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">103</column>
+        <column name="value">Fishnet Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">104</column>
+        <column name="value">Footed Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">105</column>
+        <column name="value">Footless Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">106</column>
+        <column name="value">Skating Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">107</column>
+        <column name="value">Socks</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">108</column>
+        <column name="value">Stirrup Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">109</column>
+        <column name="value">Transition Tights</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">110</column>
+        <column name="value">Jazz Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">111</column>
+        <column name="value">Lyrical</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">114</column>
+        <column name="value">Lyrical</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">115</column>
+        <column name="value">Skirts</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">116</column>
+        <column name="value">Child</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">118</column>
+        <column name="value">Test</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">119</column>
+        <column name="value">Tap Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">120</column>
+        <column name="value">Dansneaker®</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">121</column>
+        <column name="value">Lyrical, Modern, &amp; Gym Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">122</column>
+        <column name="value">Capezio Classics</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">123</column>
+        <column name="value">Team Basics</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">124</column>
+        <column name="value">Tactel Collection</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">125</column>
+        <column name="value">Boho Fairytale</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">126</column>
+        <column name="value">Capezio Classics</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">127</column>
+        <column name="value">Tactel Collection</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">130</column>
+        <column name="value">Pointe Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">135</column>
+        <column name="value">Bra Tops</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">136</column>
+        <column name="value">Undergarments</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">137</column>
+        <column name="value">Kneepads</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">138</column>
+        <column name="value">Dance Camp Essentials</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">139</column>
+        <column name="value">T Shirt Special</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">140</column>
+        <column name="value">Gift Guide</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">141</column>
+        <column name="value">For Her</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">142</column>
+        <column name="value">Over $40</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">143</column>
+        <column name="value">Adult</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">144</column>
+        <column name="value">Child</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">145</column>
+        <column name="value">Lace</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">146</column>
+        <column name="value">Barre'Lette</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">147</column>
+        <column name="value">Best Sellers</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">148</column>
+        <column name="value">Gift Cards</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">149</column>
+        <column name="value">Barre'Lette</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">150</column>
+        <column name="value">Tech &amp; Recovery</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">151</column>
+        <column name="value">Swiss Dot</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">152</column>
+        <column name="value">Strap Fascination</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">153</column>
+        <column name="value">Rococo Riche</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">154</column>
+        <column name="value">Skylight Breeze</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">155</column>
+        <column name="value">Raw Poetry</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">156</column>
+        <column name="value">Engineered Seamless</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">157</column>
+        <column name="value">Studio</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">158</column>
+        <column name="value">Bradon Collection</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">159</column>
+        <column name="value">Meryl</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">160</column>
+        <column name="value">Team Basics</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">162</column>
+        <column name="value">Tactel</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">163</column>
+        <column name="value">Active</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">164</column>
+        <column name="value">Ballroom Focus</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">165</column>
+        <column name="value">Tactel</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">166</column>
+        <column name="value">New Arrivals</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">167</column>
+        <column name="value">Eyelet</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">168</column>
+        <column name="value">Tie Dye</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">169</column>
+        <column name="value">Glitter Mesh</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">170</column>
+        <column name="value">Berries &amp; Cream</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">171</column>
+        <column name="value">Pleated Perfection</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">172</column>
+        <column name="value">Layer Cake</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">173</column>
+        <column name="value">Ballroom</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">174</column>
+        <column name="value">Stick the Landing</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">175</column>
+        <column name="value">Girls' Studio</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">176</column>
+        <column name="value">Childrens Collection</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">177</column>
+        <column name="value">JKO</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">178</column>
+        <column name="value">Gillispie</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">179</column>
+        <column name="value">Swiss Dot</column>
+    </table>
+    <table>
+        <column name="store_id">0</column>
+        <column name="row_id">180</column>
+        <column name="value">Mimy</column>
+    </table>
+    <table>
+        <column name="store_id">7</column>
+        <column name="row_id">99</column>
+        <column name="value">Lyrical, Modern &amp; Gym Shoes</column>
+    </table>
+    <table>
+        <column name="store_id">7</column>
+        <column name="row_id">97</column>
+        <column name="value">footUndeez™</column>
+    </table>
+</categories>
