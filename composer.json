@@ -1,7 +1,7 @@
 {
     "name": "aws/migration-data-processor",
     "description": "Migration Data Processor",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "minimum-stability": "dev",
     "require": {
         "magento/data-migration-tool": "2.2.3"
