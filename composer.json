@@ -5,6 +5,6 @@
     "autoload": {
         "files": [
             "registration.php"
-        ],
+        ]
     }
 }
