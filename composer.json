@@ -1,0 +1,8 @@
+{
+    "name": "mega667/migration-data-processor",
+    "description": "Migration Data Processor",
+    "version": "0.0.1",
+    "require": {
+        "magento/data-migration-tool": "2.2.3"
+    }
+}
